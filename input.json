@@ -1,0 +1,8 @@
+{
+  app1: "yes",
+  app2: "no",
+  ddl: "yes",
+  dml: "no",
+  dbjobs: "yes",
+  javastoredprocedures: "no"
+}
